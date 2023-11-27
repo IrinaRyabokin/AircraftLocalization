@@ -1,0 +1,3 @@
+{
+    "files": ["plugin_upload.py","aircraft_localization_vis_dialog.py","resources.py","__init__.py","aircraft_localization_vis.py","aircraft_localization_vis_dialog_base.ui"]
+}
